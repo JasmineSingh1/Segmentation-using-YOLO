@@ -15,5 +15,5 @@ Expected structure:
 project-root/
 │
 ├── models/
-│   └── best.pt
+│   └── YOLO11s-seg_best.pt
 ```
