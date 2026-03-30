@@ -1,4 +1,4 @@
-# # Update 'path' to the dataset location before training
+# Update 'path' to the dataset location before training
 path: data
 
 train: train/images
