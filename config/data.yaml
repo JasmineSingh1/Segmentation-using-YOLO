@@ -1,0 +1,9 @@
+# # Update 'path' to the dataset location before training
+path: data
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 1
+names: ['object']

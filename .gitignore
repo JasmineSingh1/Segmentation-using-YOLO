@@ -6,6 +6,18 @@ __pycache__/
 # C extensions
 *.so
 
+# YOLO outputs
+runs/
+
+# Model weights
+*.pt
+
+# Zipped files
+*.zip
+
+# Python cache
+__pycache__/
+
 # Distribution / packaging
 .Python
 build/
