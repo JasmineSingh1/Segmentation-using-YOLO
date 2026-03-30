@@ -11,5 +11,5 @@ model.train(
     imgsz=640,
     batch=8,
     patience=40,
-    device=0
+    device=device
 )
