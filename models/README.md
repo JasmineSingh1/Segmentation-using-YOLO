@@ -11,7 +11,9 @@ Steps:
 3. Run inference scripts
 
 Expected structure:
+```
 project-root/
 │
 ├── models/
 │   └── best.pt
+```
